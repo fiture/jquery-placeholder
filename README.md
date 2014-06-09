@@ -3,7 +3,7 @@ jquery-placeholder
 
 A jquery pulgin for old browers, to simulate the placeholder in modern browers.
 
-Useage: 
+Usage: 
 --------
 
 Include jquery.placeholder.js into your html code.
