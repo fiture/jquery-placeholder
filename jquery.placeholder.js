@@ -1,7 +1,7 @@
 /**
  * jquery.placehoder.js
  *
- * @author fiture (wywumin@chinabank.com.cn)
+ * @author fiture (fiture.cn@gmail.com)
  * @date 2014-06-09
  *
  * http://github.com/fiture/jquery-placeholder
